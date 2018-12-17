@@ -1,0 +1,15 @@
+print('-' * 60)
+print('Alien Bot:')
+print()
+planet = input('What planet are you from? ')
+if planet == 'Earth':
+	print('Enabling laser defense system, you must leave now or you will be terminated!')
+	print('5..')
+	print('4..')
+	print('3..')
+	print('2..')
+	print('1..')
+	print('Pew Pew Pew')
+else:
+	print('Welcome Alien buddy! This is home to all Martians!')
+print('-' * 60)
